@@ -64,11 +64,6 @@ angular.module('app', _.map(ngModules, 'name'))
         $timeout(function() {
             $rootScope.app.ready = true;
             $rootScope.$emit(appEvents['ready']);
-
-            // TODO remove when app is not xxx :)
-            $timeout(function() {
-                $rootScope.$emit(appEvents['error']);
-            }, 1000);
         }, appConfig.readyDelay);
     }]);
 //

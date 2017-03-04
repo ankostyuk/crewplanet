@@ -1,13 +1,13 @@
 {
-  "name": "xxx",
+  "name": "crewplanet",
   "version": "1.0.0-SNAPSHOT",
-  "description": "xxx",
+  "description": "Test for Senior Frontend developer, SPA to Crewplanet",
   "author": "Andrew Kostyuk <andrew.kostyuk@gmail.com> (https://ankostyuk.github.io)",
   "license": "MIT",
   "main": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ankostyuk/xxx"
+    "url": "https://github.com/ankostyuk/crewplanet"
   },
   "devDependencies": {
     "async": "^2.1.4",
