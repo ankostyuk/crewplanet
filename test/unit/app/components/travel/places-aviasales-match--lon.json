@@ -1,0 +1,129 @@
+[{
+     "name": "London, United Kingdom",
+     "index_strings": ["لندن", "london", "londres", "londra", "ロンドン", "런던", "londonas", "londyn", "лондон", "ลอนดอน", "luân đôn", "伦敦", "倫敦"],
+     "iata": "LON",
+     "airport_name": null,
+     "coordinates": [51.51, 0.06],
+     "searches_count": 102112,
+     "location": {
+         "lat": 51.51,
+         "lon": 0.06
+     },
+     "country_iata": "GB"
+ }, {
+     "name": "London, United Kingdom",
+     "index_strings": ["لندن", "london", "londres", "londra", "ロンドン", "런던", "londonas", "londyn", "лондон", "ลอนดอน", "luân đôn", "伦敦", "倫敦", "مطار لندن هيثرو", "london heathrow", "heathrow", "bandar udara internasional london heathrow", "ヒースロー空港", "히스로 공항", "londres - heathrow", "хитроу", "สนามบินลอนดอนฮีทโธรว์", "londra heathrow havalimanı", "sân bay london heathrow", "伦敦希思罗机场"],
+     "iata": "LHR",
+     "airport_name": "Heathrow",
+     "coordinates": [51.469604, -0.453566],
+     "searches_count": 64168,
+     "location": {
+         "lat": 51.469604,
+         "lon": -0.453566
+     },
+     "city_iata": "LON",
+     "country_iata": "GB"
+ }, {
+     "name": "London, United Kingdom",
+     "index_strings": ["لندن", "london", "londres", "londra", "ロンドン", "런던", "londonas", "londyn", "лондон", "ลอนดอน", "luân đôn", "伦敦", "倫敦", "مطار غاتويك", "london gatwick", "gatwick", "bandar udara london gatwick", "ロンドン・ガトウィック空港", "런던 개트윅 공항", "londres - gatwick", "гатвик", "สนามบินลอนดอนแกตวิก", "sân bay gatwick", "伦敦盖德维克机场", "格域機場"],
+     "iata": "LGW",
+     "airport_name": "Gatwick",
+     "coordinates": [51.156807, -0.161863],
+     "searches_count": 17436,
+     "location": {
+         "lat": 51.156807,
+         "lon": -0.161863
+     },
+     "city_iata": "LON",
+     "country_iata": "GB"
+ }, {
+     "name": "London, United Kingdom",
+     "index_strings": ["لندن", "london", "londres", "londra", "ロンドン", "런던", "londonas", "londyn", "лондон", "ลอนดอน", "luân đôn", "伦敦", "倫敦", "مطار لندن ستانستد", "london stansted", "stansted", "bandar udara london stansted", "ロンドン・スタンステッド空港", "런던 스탠스테드 국제공항", "londres - stansted", "สนามบินลอนดอนสแตนสเตด"],
+     "iata": "STN",
+     "airport_name": "Stansted",
+     "coordinates": [51.889267, 0.262703],
+     "searches_count": 8244,
+     "location": {
+         "lat": 51.889267,
+         "lon": 0.262703
+     },
+     "city_iata": "LON",
+     "country_iata": "GB"
+ }, {
+     "name": "London, United Kingdom",
+     "index_strings": ["لندن", "london", "londres", "londra", "ロンドン", "런던", "londonas", "londyn", "лондон", "ลอนดอน", "luân đôn", "伦敦", "倫敦", "مطار لندن لوتن", "london luton", "luton airport", "luton k. londynu", "londres - luton", "สนามบินลอนดอนลูตัน", "卢顿机场"],
+     "iata": "LTN",
+     "airport_name": "Luton Airport",
+     "coordinates": [51.87977, -0.376232],
+     "searches_count": 4514,
+     "location": {
+         "lat": 51.87977,
+         "lon": -0.376232
+     },
+     "city_iata": "LON",
+     "country_iata": "GB"
+ }, {
+     "name": "London, United Kingdom",
+     "index_strings": ["لندن", "london", "londres", "londra", "ロンドン", "런던", "londonas", "londyn", "лондон", "ลอนดอน", "luân đôn", "伦敦", "倫敦", "مطار لندن سيتي", "london city", "london city airport", "bandar udara london city", "ロンドン・シティ空港", "런던 시티 공항", "londres - cidade", "สนามบินลอนดอนซิตี", "sân bay london city", "伦敦城市机场", "倫敦城市機場"],
+     "iata": "LCY",
+     "airport_name": "London City Airport",
+     "coordinates": [51.5, 0.05],
+     "searches_count": 5417,
+     "location": {
+         "lat": 51.5,
+         "lon": 0.05
+     },
+     "city_iata": "LON",
+     "country_iata": "GB"
+ }, {
+     "name": "London, United Kingdom",
+     "index_strings": ["لندن", "london", "londres", "londra", "ロンドン", "런던", "londonas", "londyn", "лондон", "ลอนดอน", "luân đôn", "伦敦", "倫敦", "مطار لندن ساوثيند", "southend on sea", "southend", "london southend", "southend-on-sea", "londres southend", "саутенд", "สนามบินลอนดอนเซาท์เอนด์"],
+     "iata": "SEN",
+     "airport_name": "Southend",
+     "coordinates": [51.572777, 0.701389],
+     "searches_count": 279,
+     "location": {
+         "lat": 51.572777,
+         "lon": 0.701389
+     },
+     "city_iata": "LON",
+     "country_iata": "GB"
+ }, {
+     "name": "Long Beach, CA, United States",
+     "index_strings": ["لونغ بيتش", "long beach", "ロング・ビーチ", "롱비치", "long byčas", "лонг бич", "ลองบีช", "洛杉矶", "長灘", "长滩", "مطار لونج بيتش", "long beach municipal", "long beach daugherty field", "long beach k. los angeles", "лонг-бич", "สนามบินลองบีช", "长滩直升机场(jlb) 长滩机场(lgb)"],
+     "iata": "LGB",
+     "airport_name": "Long Beach Municipal",
+     "coordinates": [33.818195, -118.14449],
+     "searches_count": 14187,
+     "location": {
+         "lat": 33.818195,
+         "lon": -118.14449
+     },
+     "city_iata": "LGB",
+     "country_iata": "US"
+ }, {
+     "name": "London, ON, Canada",
+     "index_strings": ["لندن", "london", "londonas", "londyn", "londres", "лондон", "ลอนดอน", "مطار لندن الدولي", "london kanada", "london international", "london airport", "bandar udara internasional london", "ロンドン国際空港", "런던 국제공항", "สนามบินลอนดอน", "倫敦國際機場"],
+     "iata": "YXU",
+     "airport_name": "London International",
+     "coordinates": [43.02802, -81.14965],
+     "searches_count": 2991,
+     "location": {
+         "lat": 43.02802,
+         "lon": -81.14965
+     },
+     "city_iata": "YXU",
+     "country_iata": "CA"
+ }, {
+     "name": "London, Canada",
+     "index_strings": ["لندن", "london", "londonas", "londyn", "londres", "лондон", "ลอนดอน"],
+     "iata": "YXU",
+     "airport_name": null,
+     "coordinates": [42.987, -81.251],
+     "searches_count": 2991,
+     "location": {
+         "lat": 42.987,
+         "lon": -81.251
+     },
+     "country_iata": "CA"
+ }]

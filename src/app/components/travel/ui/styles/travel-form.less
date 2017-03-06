@@ -1,0 +1,84 @@
+/**/
+
+[app-travel-form] {
+    margin-bottom: @componentMarginLarge;
+
+    h2 {
+        margin-bottom: @componentMarginLarge;
+    }
+
+    .travel-plan {
+        margin-bottom: @componentMarginLarge;
+
+        .alert {
+            margin: @componentMarginLarge 0 0 0;
+        }
+    }
+
+    .ui-select-container > .dropdown-menu {
+        margin-top: -2px;
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+        max-height: none;
+    }
+
+    .ui-select-container {
+
+        .form-control {
+            width: 100% !important;
+        }
+
+        .ui-select-match-text span {
+            display: inline;
+            width: auto;;
+            overflow: auto;
+        }
+
+        .ui-select-match [app-travel-point],
+        .ui-select-choices [app-travel-point] {
+            display: inline-block;
+            width: 100%;
+            .text-ellipsis;
+        }
+
+        .ui-select-choices .ui-select-choices-row-inner {
+            padding: 2px 10px;
+        }
+
+        .ui-select-choices [app-travel-point] {
+            padding-top: 5px;
+        }
+    }
+
+    .ui-select-container.search {
+        .caret {
+            display: none;
+        }
+
+        .ui-select-toggle:hover {
+            background-color: @defaultBackgroundColor;
+            cursor: text;
+        }
+
+        .level-2 {
+            padding-left: 20px;
+        }
+    }
+
+    .pending {
+        position: relative;
+        margin-top: @componentMarginLarge;
+
+        [np-loader] {
+            position: absolute;
+            left: auto;
+            top: 10px;
+            width: 150px;
+            background: transparent;
+
+            .line-balls {
+                color: #ccc;
+            }
+        }
+    }
+}

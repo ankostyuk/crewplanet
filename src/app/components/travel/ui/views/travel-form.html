@@ -1,0 +1,57 @@
+<h2>${_tr("Путешествие")}</h2>
+
+<form name="form">
+    <fieldset ng-disabled="pending">
+        <div class="travel-plan">
+            <div class="row">
+                <div class="col-xs-5">
+                    <ui-select class="search" ng-model="travel.departure" reset-search-input="true" ng-disabled="pending" required>
+                        <ui-select-match placeholder='${_trc("Откуда", "Откуда вылетать")}'>
+                            <span app-travel-point="travel.departure" full="true"></span>
+                        </ui-select-match>
+                        <ui-select-choices repeat="departure in departures track by $index" refresh="searchDepartures($select.search)" refresh-delay="refreshDelay">
+                            <span ng-class="'level-' + departure._level" app-travel-point="departure" full="false"></span>
+                        </ui-select-choices>
+                    </ui-select>
+                </div>
+                <div class="col-xs-5">
+                    <ui-select class="search" ng-model="travel.arrival" reset-search-input="true" ng-disabled="pending" required>
+                        <ui-select-match placeholder='${_trc("Куда", "Куда прилетать")}'>
+                            <span app-travel-point="travel.arrival" full="true"></span>
+                        </ui-select-match>
+                        <ui-select-choices repeat="arrival in arrivals track by $index" refresh="searchArrivals($select.search)" refresh-delay="refreshDelay">
+                            <span ng-class="'level-' + arrival._level" app-travel-point="arrival" full="false"></span>
+                        </ui-select-choices>
+                    </ui-select>
+                </div>
+                <div class="col-xs-2">
+                    <ui-select ng-model="travel.numberOfPassengers" search-enabled="false" ng-disabled="pending" required>
+                        <ui-select-match placeholder='${_tr("Пассажиры...")}'>
+                            <span ng-pluralize count="travel.numberOfPassengers" when="${_tr('ng-pluralize.passengers')}"></span>
+                        </ui-select-match>
+                        <ui-select-choices repeat="passenger in passengers track by $index">
+                            <span ng-pluralize count="passenger" when="${_tr('ng-pluralize.passengers')}"></span>
+                        </ui-select-choices>
+                    </ui-select>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-10">
+                    <div class="alert alert-info" role="alert" ng-show="isDepartureEqualArrival()">
+                        ${_tr("Зачем лететь туда, откуда вылетаем?")} :)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+            <button class="btn btn-default as-link" type="button" ng-click="submit()" ng-disabled="form.$invalid">${_tr("Полетели")} :)</button>
+        </div>
+    </fieldset>
+</form>
+
+<div class="pending" ng-show="pending">
+    <hr>
+    <pre class="pending">{{formBody}}</pre>
+    <button class="btn btn-default as-link" type="button" ng-click="pending = false">${_tr("Прилетели!")}</button>
+    <div np-loader><div class="line-balls"></div></div>
+</div>

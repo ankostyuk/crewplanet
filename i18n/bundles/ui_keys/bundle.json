@@ -18,6 +18,10 @@
     "app.name": [
       null,
       "Crewplanet"
+    ],
+    "ng-pluralize.passengers": [
+      null,
+      "{'0': 'Нет пассажиров', 'one': '{} пассажир', 'few': '{} пассажира', 'many': '{} пассажиров', 'other': '{} пассажира'}"
     ]
   },
   "en": {
@@ -39,6 +43,10 @@
     "app.name": [
       null,
       "Crewplanet"
+    ],
+    "ng-pluralize.passengers": [
+      null,
+      "{'0': 'No passengers', 'one': '{} passenger', 'other': '{} passengers'}"
     ]
   }
 }

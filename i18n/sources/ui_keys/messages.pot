@@ -24,3 +24,7 @@ msgstr ""
 #: ../i18n/sources/ui_keys/src/keys.txt:1
 msgid "app.lang.name.en"
 msgstr ""
+
+#: ../i18n/sources/ui_keys/src/keys.txt:1
+msgid "ng-pluralize.passengers"
+msgstr ""

@@ -9,19 +9,22 @@ var appInfo = require('info/info');
 var _       = require('lodash'),
     angular = require('angular');
 
+require('bootstrap/dist/css/bootstrap.css');
+require('./styles/app.less');
+
 var ngModules = [
     require('i18n-app/i18n'),
 
     require('commons-angular/directives/directives'),
 
+    require('app/components/helper/helper'),
     require('app/components/lang/lang'),
     require('app/components/message/message'),
 
+    require('app/components/travel/travel'),
+
     require('utils/utils')
 ];
-
-require('bootstrap/dist/css/bootstrap.css');
-require('./styles/app.less');
 
 angular.module('app', _.map(ngModules, 'name'))
     //
@@ -36,6 +39,7 @@ angular.module('app', _.map(ngModules, 'name'))
     })
     //
     .constant('appErrors', {
+        'response.error': 'app.response.error'
     })
     //
     .config(['$qProvider', '$logProvider', '$compileProvider', function($qProvider, $logProvider, $compileProvider) {

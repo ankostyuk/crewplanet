@@ -25,3 +25,7 @@ msgstr "Русский"
 #: ../i18n/sources/ui_keys/src/keys.txt:1
 msgid "app.name"
 msgstr "Crewplanet"
+
+#: ../i18n/sources/ui_keys/src/keys.txt:1
+msgid "ng-pluralize.passengers"
+msgstr "{'0': 'No passengers', 'one': '{} passenger', 'other': '{} passengers'}"

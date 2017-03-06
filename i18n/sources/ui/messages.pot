@@ -16,3 +16,33 @@ msgstr ""
 #: ../src/app/components/message/ui/views/error-message.html:1
 msgid "Что-то пошло не так"
 msgstr ""
+
+#: ../src/app/components/travel/ui/views/travel-form.html:1
+msgid "Путешествие"
+msgstr ""
+
+#: ../src/app/components/travel/ui/views/travel-form.html:1
+msgctxt "Откуда вылетать"
+msgid "Откуда"
+msgstr ""
+
+#: ../src/app/components/travel/ui/views/travel-form.html:1
+msgctxt "Куда прилетать"
+msgid "Куда"
+msgstr ""
+
+#: ../src/app/components/travel/ui/views/travel-form.html:1
+msgid "Пассажиры..."
+msgstr ""
+
+#: ../src/app/components/travel/ui/views/travel-form.html:1
+msgid "Зачем лететь туда, откуда вылетаем?"
+msgstr ""
+
+#: ../src/app/components/travel/ui/views/travel-form.html:1
+msgid "Полетели"
+msgstr ""
+
+#: ../src/app/components/travel/ui/views/travel-form.html:1
+msgid "Прилетели!"
+msgstr ""

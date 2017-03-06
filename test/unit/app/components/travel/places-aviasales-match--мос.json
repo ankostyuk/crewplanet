@@ -1,0 +1,199 @@
+[{
+     "name": "Москва, Россия",
+     "index_strings": ["нерезиновая", "понаехавск", "нерезиновск", "defaultcity", "موسكو", "moskau", "moscow", "moscú", "moscou", "moskow", "mosca", "モスクワ", "모스크바", "maskva", "moskwa", "moscovo", "москва", "มอสโก", "moskova", "莫斯科", "нерезиновая", "понаехавск", "нерезиновск", "defaultcity"],
+     "iata": "MOW",
+     "airport_name": null,
+     "coordinates": [55.755786, 37.617633],
+     "searches_count": 1006321,
+     "location": {
+         "lat": 55.755786,
+         "lon": 37.617633
+     },
+     "country_iata": "RU",
+     "cases": {
+         "tv": "Москвой",
+         "vi": "в Москву",
+         "pr": "Москве",
+         "ro": "Москвы",
+         "da": "Москве"
+     }
+ }, {
+     "name": "Москва, Россия",
+     "index_strings": ["нерезиновая", "понаехавск", "нерезиновск", "defaultcity", "موسكو", "moskau", "moscow", "moscú", "moscou", "moskow", "mosca", "モスクワ", "모스크바", "maskva", "moskwa", "moscovo", "москва", "มอสโก", "moskova", "莫斯科", "مطار دوموديدوفو الدولي", "domodedowo", "domodedovo", "moscow domodedovo", "domodiedowo", "moscovo - domodedovo", "домодедово", "สนามบินโดโมเดโดโว", "多莫杰多沃机场"],
+     "iata": "DME",
+     "airport_name": "Домодедово",
+     "coordinates": [55.414566, 37.899494],
+     "searches_count": 613709,
+     "location": {
+         "lat": 55.414566,
+         "lon": 37.899494
+     },
+     "city_iata": "MOW",
+     "country_iata": "RU",
+     "city_cases": {
+         "tv": "Москвой",
+         "vi": "в Москву",
+         "pr": "Москве",
+         "ro": "Москвы",
+         "da": "Москве"
+     }
+ }, {
+     "name": "Москва, Россия",
+     "index_strings": ["нерезиновая", "понаехавск", "нерезиновск", "defaultcity", "موسكو", "moskau", "moscow", "moscú", "moscou", "moskow", "mosca", "モスクワ", "모스크바", "maskva", "moskwa", "moscovo", "москва", "มอสโก", "moskova", "莫斯科", "مطار شيريميتييفو الدولي", "moskau-scheremetjewo", "sheremetyevo international", "sheremetyevo", "moscow sheremetyevo", "szeremietiewo", "moscovo - sheremetyevo", "шереметьево", "สนามบินนานาชาติเชเรเมเตียโว", "谢列梅捷沃机场"],
+     "iata": "SVO",
+     "airport_name": "Шереметьево",
+     "coordinates": [55.966324, 37.416573],
+     "searches_count": 219897,
+     "location": {
+         "lat": 55.966324,
+         "lon": 37.416573
+     },
+     "city_iata": "MOW",
+     "country_iata": "RU",
+     "city_cases": {
+         "tv": "Москвой",
+         "vi": "в Москву",
+         "pr": "Москве",
+         "ro": "Москвы",
+         "da": "Москве"
+     }
+ }, {
+     "name": "Москва, Россия",
+     "index_strings": ["нерезиновая", "понаехавск", "нерезиновск", "defaultcity", "موسكو", "moskau", "moscow", "moscú", "moscou", "moskow", "mosca", "モスクワ", "모스크바", "maskva", "moskwa", "moscovo", "москва", "มอสโก", "moskova", "莫斯科", "مطار فنوكوفو الدولي", "moskau wnukowo", "vnukovo", "moscow vnukovo", "wnukowo", "moscovo - vnukovo", "внуково", "สนามบินวนูโคโว", "伏努科沃机场"],
+     "iata": "VKO",
+     "airport_name": "Внуково",
+     "coordinates": [55.60315, 37.2921],
+     "searches_count": 160938,
+     "location": {
+         "lat": 55.60315,
+         "lon": 37.2921
+     },
+     "city_iata": "MOW",
+     "country_iata": "RU",
+     "city_cases": {
+         "tv": "Москвой",
+         "vi": "в Москву",
+         "pr": "Москве",
+         "ro": "Москвы",
+         "da": "Москве"
+     }
+ }, {
+     "name": "Мостар, Босния и Герцеговина",
+     "index_strings": ["موستار", "mostar", "モスタール", "모스타르", "мостар", "莫斯塔尔", "莫斯塔爾", "‪mostar airport‬‏", "mostar international", "莫斯塔尔机场"],
+     "iata": "OMO",
+     "airport_name": "Мостар",
+     "coordinates": [43.285557, 17.846666],
+     "searches_count": 3280,
+     "location": {
+         "lat": 43.285557,
+         "lon": 17.846666
+     },
+     "city_iata": "OMO",
+     "country_iata": "BA",
+     "city_cases": {
+         "tv": "Мостаром",
+         "vi": "в Мостар",
+         "pr": "Мостаре",
+         "ro": "Мостара",
+         "da": "Мостару"
+     }
+ }, {
+     "name": "Мосул, Ирак",
+     "index_strings": ["mosul", "mossoul", "mossul", "モースル", "모술", "мосул", "โมซุล", "musul", "摩蘇爾", "摩苏尔", "mosul international", "モースル空港", "모술 공항", "สนามบินโมซุล", "musul havalimanı", "摩苏尔机场"],
+     "iata": "OSM",
+     "airport_name": "Мосул",
+     "coordinates": [36.3075, 43.149445],
+     "searches_count": 1427,
+     "location": {
+         "lat": 36.3075,
+         "lon": 43.149445
+     },
+     "city_iata": "OSM",
+     "country_iata": "IQ",
+     "city_cases": {
+         "tv": "Мосулом",
+         "vi": "в Мосул",
+         "pr": "Мосуле",
+         "ro": "Мосула",
+         "da": "Мосулу"
+     }
+ }, {
+     "name": "Москва, Россия",
+     "index_strings": ["нерезиновая", "понаехавск", "нерезиновск", "defaultcity", "موسكو", "moskau", "moscow", "moscú", "moscou", "moskow", "mosca", "モスクワ", "모스크바", "maskva", "moskwa", "moscovo", "москва", "มอสโก", "moskova", "莫斯科", "‪zhukovsky international airport‬‏", "zhukovsky", "жуковский"],
+     "iata": "ZIA",
+     "airport_name": "Жуковский",
+     "coordinates": [55.5690146, 38.1419636],
+     "searches_count": 2747,
+     "location": {
+         "lat": 55.5690146,
+         "lon": 38.1419636
+     },
+     "city_iata": "MOW",
+     "country_iata": "RU",
+     "city_cases": {
+         "tv": "Москвой",
+         "vi": "в Москву",
+         "pr": "Москве",
+         "ro": "Москвы",
+         "da": "Москве"
+     }
+ }, {
+     "name": "Лос-Анджелес, США",
+     "index_strings": ["لوس أنجلوس", "los angeles", "los ángeles", "ロサンゼルス", "로스앤젤레스", "los andželas", "лос-анджелес", "ลอสแอนเจลิส", "洛杉矶", "洛杉磯"],
+     "iata": "LAX",
+     "airport_name": null,
+     "coordinates": [34.0522342, -118.2436849],
+     "searches_count": 1503463,
+     "location": {
+         "lat": 34.0522342,
+         "lon": -118.2436849
+     },
+     "country_iata": "US",
+     "cases": {
+         "tv": "Лос-Анджелесом",
+         "vi": "в Лос-Анджелес",
+         "pr": "Лос-Анджелесе",
+         "ro": "Лос-Анджелеса",
+         "da": "Лос-Анджелесу"
+     }
+ }, {
+     "name": "Лос-Анджелес, CA, США",
+     "index_strings": ["لوس أنجلوس", "los angeles", "los ángeles", "ロサンゼルス", "로스앤젤레스", "los andželas", "лос-анджелес", "ลอสแอนเจลิส", "洛杉矶", "洛杉磯", "مطار لوس أنجلوس الدولي", "los angeles international", "los angeles internacional", "สนามบินนานาชาติลอสแอนเจลิส", "洛杉矶机场"],
+     "iata": "LAX",
+     "airport_name": "Лос-Анджелес",
+     "coordinates": [33.943398, -118.40828],
+     "searches_count": 1471814,
+     "location": {
+         "lat": 33.943398,
+         "lon": -118.40828
+     },
+     "city_iata": "LAX",
+     "country_iata": "US",
+     "city_cases": {
+         "tv": "Лос-Анджелесом",
+         "vi": "в Лос-Анджелес",
+         "pr": "Лос-Анджелесе",
+         "ro": "Лос-Анджелеса",
+         "da": "Лос-Анджелесу"
+     }
+ }, {
+     "name": "Кос, Греция",
+     "index_strings": ["كوس", "kos", "кос", "เคโอส", "istankoy", "科斯", "مطار جزيرة كوس الدولي", "kos griechenland", "kos island international airport", "bandar udara internasional pulau kos", "kos ippokratis", "гиппократес", "สนามบินเคโอส", "sân bay quốc tế đảo kos", "科斯机场"],
+     "iata": "KGS",
+     "airport_name": "Гиппократес",
+     "coordinates": [36.793056, 27.095278],
+     "searches_count": 81837,
+     "location": {
+         "lat": 36.793056,
+         "lon": 27.095278
+     },
+     "city_iata": "KGS",
+     "country_iata": "GR",
+     "city_cases": {
+         "tv": "Косом",
+         "vi": "в Коса",
+         "pr": "Косе",
+         "ro": "Коса",
+         "da": "Косу"
+     }
+ }]
